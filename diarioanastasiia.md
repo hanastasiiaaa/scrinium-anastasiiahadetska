@@ -8,4 +8,5 @@ Alla fine del corso questo diario diventa la sezione «Scelte e limiti» del REA
 | [02/11/2026] | 2 | [oggi ho guardato l'app scrinium] | [mi piacerebbe riucire a creare un sito simile e originale] |
 | 02/11/2026|catalogo di beni culturali:|dati= beni culturali; |campi di descrizione= autori, luoghi, settori,itinerari|
 |servizi= cercare,filtrare, navigare per località,scaricare scheda opera |visualizzazioni = mappa geografica, box di autori,box di settori|Licenza e data = licenza Creative Commons Attribuzione (CC BY 4.0); luglio2025 versione aggiornata 1.2,settembre 2025 versione 2| |
-|09/11/2026|3| oggi abbiamo iniziato a vedere la struttura dell'html e css| ho deciso di inserire il studio di figura maschile e tra i metadati "tipologia", "luogo","autore e tipologia", "datazione", "materia e tecnica","misure","licenza" | |
+|09/11/2026 | 3 | oggi abbiamo iniziato a vedere la struttura dell'html e css| ho deciso di inserire lo studio di figura maschile e i seguenti metadati: "tipologia", "luogo","autore e tipologia", "datazione", "materia e tecnica","misure","licenza" | Perché mi piaceva il disegno e ho voluto rendere la sua descrizione dettagliata | |
+|10/11/2026 | 4 | Ho modificato il foglio css secondo il mio gusto| per rendere la mia pagina unica  | |
