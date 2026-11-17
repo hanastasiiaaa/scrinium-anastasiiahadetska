@@ -1,8 +1,6 @@
 # Diario di progetto
-
 ##Cinque minuti alla fine di ogni lezione: che cosa hai deciso e perché.
 ##Alla fine del corso questo diario diventa la sezione «Scelte e limiti» del README.
-
 | 02/11 | 1 | ho guardato interalmente Scrinium | vorrei saper creare collegamenti
 | 03/11 | 2 | mi piacerebbe guardare quella degli autori latini | per capire come funziona il rapporto classici e tecnologia
 | 09/11 | 3 | ho deciso di inserire il bronetto votivo e tra i metadati la tipologia | per curiosità |
