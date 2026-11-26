@@ -14,3 +14,4 @@ Alla fine del corso questo diario diventa la sezione «Scelte e limiti» del REA
 | 19/11/2026 | 7 | oggi abbiamo creato continuato a lavorarci su dataset. Ho affinato la tabella Excel. Successivamente l'ho convertita in formato CSV e JSON| Abbiamo analizzato le differenze tra 2 format di document (CSV e JSON) | |
 | 23/11/2026 | 8 | Abbiamo affrontato i testi letterari. Ho analizzato il Diluvio Universale di Giacomo Leopardi, pubblicato su Biblioteca Italiana. Ho scaricato il file XML. | Ho iniziato a costruire la pagina web della poesia, collegandola con il dipinto Diluvio universale di Michelangelo Buonarroti | |
 | 24/11/2026 | 9 | Abbiamo affrontato alla lezione RDF, CIDOC-CRM e LRMoo | Per fare dei collegamenti con altri oggetti della collezione | |
+| 26/11/2026 | 10 | Abbiamo riguardato e ripassato lo svolgimento dell'esercizio 2. | Per comprendere meglio la struttura HTML, CSS e iniziare a creare la nostra pagina | |
